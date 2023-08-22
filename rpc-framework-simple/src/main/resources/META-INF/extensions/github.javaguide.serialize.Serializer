@@ -1,0 +1,3 @@
+kyro=KryoSerializer
+protostuff=ProtostuffSerializer
+hessian=HessianSerializer
